@@ -5,5 +5,7 @@
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Function" />
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Optional" />
     <EXCLUDED_PACKAGE NAME="com.sun.istack.internal" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.ws.Closeable" />
+    <EXCLUDED_PACKAGE NAME="sun.management.FileSystem" />
   </component>
 </application>

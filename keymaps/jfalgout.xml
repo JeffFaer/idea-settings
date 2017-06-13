@@ -1,4 +1,8 @@
 <keymap version="1" name="jfalgout" parent="Eclipse">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
   <action id="Blaze.IncrementalSyncProject">
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="shift u" />
   </action>
@@ -21,6 +25,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
