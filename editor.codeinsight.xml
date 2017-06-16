@@ -1,0 +1,15 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="ADD_IMPORTS_ON_PASTE" value="1" />
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.google.common.base.Function" />
+    <EXCLUDED_PACKAGE NAME="com.google.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.sun.istack.internal" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.ws.Closeable" />
+    <EXCLUDED_PACKAGE NAME="org.omg" />
+    <EXCLUDED_PACKAGE NAME="org.omg.CORBA.portable.InputStream" />
+    <EXCLUDED_PACKAGE NAME="org.omg.CORBA_2_3.portable.InputStream" />
+    <EXCLUDED_PACKAGE NAME="sun.management.FileSystem" />
+  </component>
+</application>
