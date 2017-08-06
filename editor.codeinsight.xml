@@ -5,6 +5,7 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Function" />
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.google.common.base.Predicate" />
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Supplier" />
     <EXCLUDED_PACKAGE NAME="com.sun.istack.internal" />
     <EXCLUDED_PACKAGE NAME="com.sun.java.util.jar" />
