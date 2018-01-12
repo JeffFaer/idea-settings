@@ -11,6 +11,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun.java.util.jar" />
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache.bcel.internal" />
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xml.internal" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util.List" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.ws.Closeable" />
     <EXCLUDED_PACKAGE NAME="jdk.internal" />
     <EXCLUDED_PACKAGE NAME="org.mockito.internal" />
